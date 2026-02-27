@@ -40,5 +40,7 @@
 > 웹
 
 ![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
-## 설명
+## 
+> Notion
+https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
 
