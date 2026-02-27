@@ -28,7 +28,11 @@
 - Category
 ![Category](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Category.png)
 - Wish/Search
-![Wish, Search(https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Wish, Search.png)
+![Wish, Search](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Wish%2C%20Search.png)
 - Cart/Reserve
-![Cart, Reserve](https://github.com/ChaeEun0112/WebProject-Lento/blob/Cart, Reserve.png)
+![Cart, Reserve](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Cart%2C%20Reserve.png)
+- Delivery
+![Delivery](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Delivery.png)
+- My page
+![My page]
 > 웹
