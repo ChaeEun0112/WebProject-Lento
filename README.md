@@ -1,6 +1,6 @@
 # Lento - 감성을 담은 소품 렌탈샵, 여유로운 선택
 > 개발 기간 : 2024.9 ~ 2024.12
-![Main]()
+![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
 ## 💬 의미
 > 소품을 대여하는 과정에서 시간을 충분히 갖고, 신중하게 선택할 수 있다는 의미를 내포
 - "Lend"의 변형으로, 소품을 빌리는 의미
