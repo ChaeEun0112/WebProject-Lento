@@ -42,6 +42,7 @@
 ![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️
 > Notion
+
 https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
 > Figma
 - WireFrame
