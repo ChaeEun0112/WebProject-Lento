@@ -22,6 +22,8 @@
 ## 💻주요 기능
 > 앱
 - Main
-![Main]
+![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
+- Product
+![Product]()
 
 > 웹
