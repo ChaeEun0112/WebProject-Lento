@@ -2,10 +2,11 @@
 > 개발 기간 : 2024.9 ~ 2024.12
 
 ![Lento](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Lento.png)
-## 💬 의미
+## 💬의미
 > 소품을 대여하는 과정에서 시간을 충분히 갖고, 신중하게 선택할 수 있다는 의미를 내포
 - "Lend"의 변형으로, 소품을 빌리는 의미
 - Lento = 이탈리아어로 "천천히"라는 뜻 → 느림의 미학을 강조
+## 💡
 ## 👩‍💻팀원
 > 김채은
 - Figma를 활용한 UI/UX 디자인
@@ -36,4 +37,6 @@
 - My page
 ![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
 > 웹
-![Web]()
+![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
+
+
