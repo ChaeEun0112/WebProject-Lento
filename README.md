@@ -24,6 +24,11 @@
 - Main
 ![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
 - Product
-![Product]()
-
+![Product](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Product.png)
+- Category
+![Category](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Category.png)
+- Wish/Search
+![Wish, Search(https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Wish, Search.png)
+- Cart/Reserve
+![Cart, Reserve](https://github.com/ChaeEun0112/WebProject-Lento/blob/Cart, Reserve.png)
 > 웹
