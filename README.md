@@ -20,7 +20,7 @@
 - "Lend"의 변형으로, 소품을 빌리는 의미
 - Lento = 이탈리아어로 "천천히"라는 뜻 → 느림의 미학을 강조
 > 앱 로고
-![Logo](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Logo.jpg)
+![Logo](https://github.com/ChaeEun0112/WebProject/blob/main/Logo.png)
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 💻주요 기능
