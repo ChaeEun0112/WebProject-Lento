@@ -7,7 +7,7 @@
 - "Lend"의 변형으로, 소품을 빌리는 의미
 - Lento = 이탈리아어로 "천천히"라는 뜻 → 느림의 미학을 강조
 ## 💡컨셉
-![Concept]()
+![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 👩‍💻팀원
 > 김채은
 - Figma를 활용한 UI/UX 디자인
