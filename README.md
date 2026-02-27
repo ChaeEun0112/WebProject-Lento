@@ -34,5 +34,6 @@
 - Delivery
 ![Delivery](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Delivery.png)
 - My page
-![My page]
+![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
 > 웹
+![Web]()
