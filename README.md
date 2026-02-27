@@ -40,10 +40,7 @@
 > 웹
 
 ![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
-## ✒️
-> Notion
-
- https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
+## ✒️디자인/문서
 > Figma
 - WireFrame
 
@@ -51,4 +48,7 @@ https://www.figma.com/design/tLjI7HnVFW2RVU2TlJsHru/WireFrame?node-id=0-1&t=hiVh
 - Prototype
 
 https://www.figma.com/proto/IlJOJc7mPW2yNzKSAv2xlz/Prototype?node-id=1-1250&t=RQW3GRiHDd6rYM56-1
+> Notion
+
+ https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
 
