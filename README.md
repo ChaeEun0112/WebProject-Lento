@@ -43,10 +43,12 @@
 ## ✒️
 > Notion
 
-https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
+ https://www.notion.so/Lento-161976ad709080dc87c2ffa3975cee6f?source=copy_link
 > Figma
 - WireFrame
+
 https://www.figma.com/design/tLjI7HnVFW2RVU2TlJsHru/WireFrame?node-id=0-1&t=hiVhBj0Hojb5TkgQ-1
 - Prototype
+
 https://www.figma.com/proto/IlJOJc7mPW2yNzKSAv2xlz/Prototype?node-id=1-1250&t=RQW3GRiHDd6rYM56-1
 
