@@ -24,6 +24,7 @@
 ∴ 빠른 소비보다 여유로운 선택 가치를 강조한 브랜드
 ## 💡개요
 > 인테리어 소품을 구매하기 전 직접 경험해볼 수 있는 렌탈 기반 라이프스타일 서비스
+
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 🛠️기술 스택
 | <div align="center">구분</div> | <div align="center">기술</div> |
