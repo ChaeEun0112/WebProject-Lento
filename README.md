@@ -32,7 +32,7 @@
 |-----|------|
 | <div align="center">Design</div> | <div align="center">Figma</div> |
 | <div align="center">Web Builder</div> | <div align="center">I'm Web (No-Code Tool)</div> |
-## 💻주요 기능
+## 💻주요 화면
 > 📱App UI
 - Main
 ![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
