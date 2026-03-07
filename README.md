@@ -33,7 +33,7 @@
 | <div align="center">Design</div> | <div align="center">Figma</div> |
 | <div align="center">Web Builder</div> | <div align="center">I'm Web (No-Code Tool)</div> |
 ## 💻주요 기능
-> 앱
+> 📱App UI
 - Main
 ![Main](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Main.png)
 - Product
@@ -48,7 +48,7 @@
 ![Delivery](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Delivery.png)
 - My page
 ![My page](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/My%20page.png)
-> 웹
+> 🌐Web UI
 
 ![Web[]()](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Web.png)
 ## ✒️디자인/문서
