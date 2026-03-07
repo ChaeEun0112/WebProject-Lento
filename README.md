@@ -24,6 +24,8 @@
 ∴ 빠른 소비보다 여유로운 선택 가치를 강조한 브랜드
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
+## 🛠️기술 스택
+
 ## 💻주요 기능
 > 앱
 - Main
