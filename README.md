@@ -25,7 +25,10 @@
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 🛠️기술 스택
-
+| 기술/도구          | 
+|---------------|
+| Figma     | 
+| I'm Web (No-Code Tool) | 
 ## 💻주요 기능
 > 앱
 - Main
