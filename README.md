@@ -25,7 +25,7 @@
 ## 💡개요
 ![Concept](https://github.com/ChaeEun0112/WebProject-Lento/blob/main/Concept.jpg)
 ## 🛠️기술 스택
-| 기술/도구          | 
+| <div align="center">기술/도구</div>          | 
 |---------------|
 | <div align="center">Figma<div>     | 
 | <div align="center">I'm Web (No-Code Tool)<div> | 
